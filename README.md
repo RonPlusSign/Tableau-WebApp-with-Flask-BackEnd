@@ -16,6 +16,6 @@ password:   yourpassword
 ![alt text](dashboard.PNG)
 
 # Built with
-- Python 3 (and Flask)
+- Python 3 (Flask framework)
 - Tableau (Rest API and JS API)
 - HTML / CSS / JS
