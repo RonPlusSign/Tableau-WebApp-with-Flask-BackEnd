@@ -9,7 +9,7 @@ Login example:
 username:   user1
 password:   yourpassword
 ```
-# Dashboard page example
+# Login form example
 ![alt text](login_form.PNG)
 
 # Dashboard page example
